@@ -1,6 +1,6 @@
-# Project Title
+# Hangman
 
-[Difficulty] Completed Project From JetBrains Academy Python Developer Track
+[Easy] Completed Project From JetBrains Academy Python Developer Track
 
 [Project Link]()
 
