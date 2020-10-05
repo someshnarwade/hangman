@@ -18,4 +18,4 @@ With functions, loops, lists and other variables, this is a great project for Py
 5. Using a loop, extend the number of attempts to eight. 
 6. The outcome of the game may be “fatal”: a feature that makes the game all the more exciting. Work on implementing this feature so that players don’t lose “lives” if they guess the letter correctly. Learn 'while' loop.
 7. Improve the game by handling different error cases. Repetition of a letter, entering words that are too long, or using non-Latin characters shouldn’t cost your player a life.
-8.Create a menu for your game so that players can replay it or exit.
+8. Create a menu for your game so that players can replay it or exit.
